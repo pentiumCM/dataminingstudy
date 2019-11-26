@@ -1,4 +1,4 @@
-package classification.datamining_ID3;
+package classification.decision_tree.datamining_ID3;
 
 import lombok.Data;
 

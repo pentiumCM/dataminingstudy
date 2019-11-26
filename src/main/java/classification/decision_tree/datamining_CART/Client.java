@@ -1,4 +1,4 @@
-package classification.datamining_CART;
+package classification.decision_tree.datamining_CART;
 
 public class Client {
 	public static void main(String[] args){

@@ -1,4 +1,4 @@
-package classification.datamining_CART;
+package classification.decision_tree.datamining_CART;
 
 import lombok.Data;
 

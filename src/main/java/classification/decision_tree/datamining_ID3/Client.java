@@ -1,4 +1,4 @@
-package classification.datamining_ID3;
+package classification.decision_tree.datamining_ID3;
 
 /**
  * ID3决策树分类算法测试场景类
@@ -7,7 +7,7 @@ package classification.datamining_ID3;
  */
 public class Client {
     public static void main(String[] args) {
-        String filePath = "F:\\develop_code\\research\\datamining\\dataminingstudy\\src\\main\\java\\classification\\datamining_ID3\\input.txt";
+        String filePath = "F:\\develop_code\\research\\datamining\\dataminingstudy\\src\\main\\java\\classification\\decision_tree\\datamining_ID3\\input.txt";
 
         ID3Tool tool = new ID3Tool(filePath);
         tool.startBuildingTree(true);
